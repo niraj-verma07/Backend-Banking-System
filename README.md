@@ -98,14 +98,6 @@ JWT_SECRET=your_jwt_secret_key_here_make_it_long_and_random
 EMAIL_USER=your-email@gmail.com
 EMAIL_PASSWORD=your-app-specific-password
 
-# SMTP Configuration (Optional, for other email services)
-SMTP_HOST=smtp.gmail.com
-SMTP_PORT=587
-
-# Server Configuration
-PORT=3000
-NODE_ENV=development
-```
 
 ### How to Get Email Credentials:
 
